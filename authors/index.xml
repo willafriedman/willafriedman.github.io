@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Willa Friedman</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an Assistant Professor in the Economics Department at the University of Houston. I study development economics with interests in health, education, political economy, and behavioral economics, and a regional focus on Sub-Saharan Africa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edward Miguel</title>
+      <link>/authors/edward-miguel/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/edward-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Kremer</title>
+      <link>/authors/michael-kremer/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-kremer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Thornton</title>
+      <link>/authors/rebecca-thornton/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/rebecca-thornton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Woodman</title>
+      <link>/authors/benjamin-woodman/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/benjamin-woodman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minki Chatterij</title>
+      <link>/authors/minki-chatterij/</link>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/minki-chatterij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrienne Lucas</title>
+      <link>/authors/adrienne-lucas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/adrienne-lucas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthony Keats</title>
+      <link>/authors/anthony-keats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/anthony-keats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dino Rech</title>
+      <link>/authors/dino-rech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/dino-rech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kehinde Ajayi</title>
+      <link>/authors/kehinde-ajayi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/kehinde-ajayi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Wilson</title>
+      <link>/authors/nicholas-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nicholas-wilson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sasha Frade</title>
+      <link>/authors/sasha-frade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/sasha-frade/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
