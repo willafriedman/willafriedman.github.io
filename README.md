@@ -2,17 +2,15 @@
 
 1. “[When Information is Not Enough: Evidence from a Centralized School Choice System](/files/papers/guiide.pdf),” with Kehinde Ajayi and Adrienne Lucas.
 
-2. “[Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya],” with Anthony Keats, revise and resubmit, *Journal of Health Economics*.
+2. “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats, revise and resubmit, *Journal of Health Economics*.
 
-3. “[Institutional Births and Early Child Health: Evidene from Ghana's Free Delivery Policy],” with Anthony Keats.
+3. “Institutional Births and Early Child Health: Evidene from Ghana's Free Delivery Policy,” with Anthony Keats.
 
-4. “[The Educational and Fertility Effects of Sibling Deaths],” with Marc Rockmore and Dhanu Thamarapani), revise and resubmit, *Economic Development and Cultural Change*.
+4. “The Educational and Fertility Effects of Sibling Deaths,” with Marc Rockmore and Dhanu Thamarapani), revise and resubmit, *Economic Development and Cultural Change*.
 
-5. “[Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya],” with Anthony Keats, revise and resubmit, *Journal of Health Economics*.
+5. “Local Economic Conditions and Participation in the Rwandan Genocide,” Households in Conflict Network working paper No 160.
 
-6. “[Local Economic Conditions and Participation in the Rwandan Genocide,” Households in Conflict Network working paper No 160.
-
-7. “[Evolution of cultural beliefs and children's gender],” with Jean Boblawende Kabore.
+6. “Evolution of cultural beliefs and children's gender,” with Jean Boblawende Kabore.
 
 ## Publications
 
