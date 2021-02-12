@@ -26,7 +26,7 @@
 
 6. “[Local Economic Conditions and Participation in the Rwandan Genocide,” Households in Conflict Network working paper No 160.
 
-“[Evolution of cultural beliefs and children's gender],” with Jean Boblawende Kabore.
+7. “[Evolution of cultural beliefs and children's gender],” with Jean Boblawende Kabore.
 
 
 ## Book Chapters
