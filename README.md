@@ -1,17 +1,3 @@
-## Publications
-
-1. “[Antiretroviral Drug Access and Behavior Change](/files/papers/arv.pdf),” *Journal of Development Economics*, 2018.
-
-2. “[Corruption and Averting AIDS Deaths](/files/papers/corrup.pdf),” *World Development*, 2018.
-
-3. “[The Importance of Information Targeting for School Choice](/files/papers/guiideparents.pdf),” with Kehinde Ajayi and Adrienne Lucas *American Economic Review: Papers and Proceedings*, 2017.
-
-4. “[Advertising for Demand Creation for Voluntary Medical Male Circumcision](/files/papers/jaids.pdf),” *JAIDS*, 2016.
-
-5. “[Education as Liberation?](/files/papers/edaslib.pdf),” with Michael Kremer, Edward Miguel, Rebecca Thornton, *Economica*, 2016.
-
-6. “[Can Mobile Phone Messages to Drug Sellers Improve Treatment of Childhood Diarrhea?: A Randomized Controlled Trial in Ghana](/files/papers/smsghana.pdf),” *Health Policy and Planning*, 2015.
-
 ## Working Papers
 
 1. “[When Information is Not Enough: Evidence from a Centralized School Choice System](/files/papers/guiide.pdf),” with Kehinde Ajayi and Adrienne Lucas.
@@ -28,6 +14,19 @@
 
 7. “[Evolution of cultural beliefs and children's gender],” with Jean Boblawende Kabore.
 
+## Publications
+
+1. “[Antiretroviral Drug Access and Behavior Change](/files/papers/arv.pdf),” *Journal of Development Economics*, 2018.
+
+2. “[Corruption and Averting AIDS Deaths](/files/papers/corrup.pdf),” *World Development*, 2018.
+
+3. “[The Importance of Information Targeting for School Choice](/files/papers/guiideparents.pdf),” with Kehinde Ajayi and Adrienne Lucas *American Economic Review: Papers and Proceedings*, 2017.
+
+4. “[Advertising for Demand Creation for Voluntary Medical Male Circumcision](/files/papers/jaids.pdf),” with Nicholas Wilson, Sasha Frade, and Dino Rech, *JAIDS*, 2016.
+
+5. “[Education as Liberation?](/files/papers/edaslib.pdf),” with Michael Kremer, Edward Miguel, Rebecca Thornton, *Economica*, 2016.
+
+6. “[Can Mobile Phone Messages to Drug Sellers Improve Treatment of Childhood Diarrhea?: A Randomized Controlled Trial in Ghana](/files/papers/smsghana.pdf),” with Minki Chatterji and Benjamin Woodman *Health Policy and Planning*, 2015.
 
 ## Book Chapters
 
