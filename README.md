@@ -2,7 +2,7 @@
 
 1. “[When Information is Not Enough: Evidence from a Centralized School Choice System](/files/guiide.pdf),” with Kehinde Ajayi and Adrienne Lucas.
 
-2. “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats, revise and resubmit, *Journal of Health Economics*.
+2. “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, revise and resubmit, *Journal of Health Economics*.
 
 3. “Institutional Births and Early Child Health: Evidene from Ghana's Free Delivery Policy,” with Anthony Keats.
 
