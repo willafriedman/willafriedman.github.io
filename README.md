@@ -10,7 +10,11 @@
 
 5. “Local Economic Conditions and Participation in the Rwandan Genocide,” Households in Conflict Network working paper No 160.
 
-6. “Evolution of cultural beliefs and children's gender,” with Jean Boblawende Kabore.
+6. “Children's identities and parents' attitudes," (with Jean Boblawende Kabore)  
+
+7. “Evolution of Cultural Attitudes and Sex of Children in West Africa,” (with Jean Boblawende Kabore)
+
+8. “Making Contact: Worker Assignment and National Unity," (with Guthrie Gray-Lobe and Michael Kremer)
 
 ## Publications
 
