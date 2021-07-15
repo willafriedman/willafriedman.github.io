@@ -16,19 +16,23 @@
 
 8. “Making Contact: Worker Assignment and National Unity," (with Guthrie Gray-Lobe and Michael Kremer)
 
-## Publications
+## Publications and Forthcoming
 
-1. “[Antiretroviral Drug Access and Behavior Change](/files/arv.pdf),” *Journal of Development Economics*, 2018.
+1. “[Can Nudging Overcome Procrastinating on Preventive Health Investments](/files/advertisingvmmc_preprint.pdf),” with Nicholas Wilson, *Economics and Human Biology*, fortchoming.
 
-2. “[Corruption and Averting AIDS Deaths](/files/corrup.pdf),” *World Development*, 2018.
+2. “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinab ́e, Pakistani, and Tanzanian Providers]” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (forthcoming) 
 
-3. “[The Importance of Information Targeting for School Choice](/files/guiideparents.pdf),” with Kehinde Ajayi and Adrienne Lucas *American Economic Review: Papers and Proceedings*, 2017.
+3. “[Antiretroviral Drug Access and Behavior Change](/files/arv.pdf),” *Journal of Development Economics*, 2018.
 
-4. “[Advertising for Demand Creation for Voluntary Medical Male Circumcision](/files/jaids.pdf),” with Nicholas Wilson, Sasha Frade, and Dino Rech, *JAIDS*, 2016.
+4. “[Corruption and Averting AIDS Deaths](/files/corrup.pdf),” *World Development*, 2018.
 
-5. “[Education as Liberation?](/files/edaslib.pdf),” with Michael Kremer, Edward Miguel, Rebecca Thornton, *Economica*, 2016.
+5. “[The Importance of Information Targeting for School Choice](/files/guiideparents.pdf),” with Kehinde Ajayi and Adrienne Lucas *American Economic Review: Papers and Proceedings*, 2017.
 
-6. “[Can Mobile Phone Messages to Drug Sellers Improve Treatment of Childhood Diarrhea?: A Randomized Controlled Trial in Ghana](/files/smsghana.pdf),” with Minki Chatterji and Benjamin Woodman *Health Policy and Planning*, 2015.
+6. “[Advertising for Demand Creation for Voluntary Medical Male Circumcision](/files/jaids.pdf),” with Nicholas Wilson, Sasha Frade, and Dino Rech, *JAIDS*, 2016.
+
+7. “[Education as Liberation?](/files/edaslib.pdf),” with Michael Kremer, Edward Miguel, Rebecca Thornton, *Economica*, 2016.
+
+8. “[Can Mobile Phone Messages to Drug Sellers Improve Treatment of Childhood Diarrhea?: A Randomized Controlled Trial in Ghana](/files/smsghana.pdf),” with Minki Chatterji and Benjamin Woodman *Health Policy and Planning*, 2015.
 
 ## Book Chapters
 
