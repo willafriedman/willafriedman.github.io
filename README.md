@@ -18,9 +18,9 @@
 
 ## Publications and Forthcoming
 
-1. “[Can Nudging Overcome Procrastinating on Preventive Health Investments](/files/advertisingvmmc_preprint.pdf),” with Nicholas Wilson, *Economics and Human Biology*, fortchoming.
+1. “[Can Nudging Overcome Procrastinating on Preventive Health Investments](/files/advertisingvmmc_preprint.pdf),” with Nicholas Wilson, *Economics and Human Biology*, (forthcoming).
 
-2. “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinab ́e, Pakistani, and Tanzanian Providers]” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (forthcoming) 
+2. “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinab ́e, Pakistani, and Tanzanian Providers]” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (forthcoming). 
 
 3. “[Antiretroviral Drug Access and Behavior Change](/files/arv.pdf),” *Journal of Development Economics*, 2018.
 
