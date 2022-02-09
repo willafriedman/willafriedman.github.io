@@ -4,7 +4,7 @@
 
 2. “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, revise and resubmit, *Journal of Health Economics*.
 
-3. “Institutional Births and Early Child Health: Evidene from Ghana's Free Delivery Policy,” with Anthony Keats.
+3. “Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
 
 4. “The Educational and Fertility Effects of Sibling Deaths,” with Marc Rockmore and Dhanu Thamarapani), revise and resubmit, *Economic Development and Cultural Change*.
 
@@ -18,9 +18,9 @@
 
 ## Publications and Forthcoming
 
-1. “[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (forthcoming). (or [preprint](/files/advertisingvmmc_preprint.pdf))
+1. “[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (2021). (or [preprint](/files/advertisingvmmc_preprint.pdf))
 
-2. “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinab ́e, Pakistani, and Tanzanian Providers]” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (forthcoming). 
+2. “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinabe, Pakistani, and Tanzanian Providers](https://pubmed.ncbi.nlm.nih.gov/34472623/)” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (2021). 
 
 3. “[Antiretroviral Drug Access and Behavior Change](/files/arv.pdf),” *Journal of Development Economics*, 2018.
 
