@@ -4,15 +4,17 @@
 
 “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, revise and resubmit, *Journal of Health Economics*.
 
-“Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
+“[Making Contact: Worker Assignment and National Unity](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," (with Guthrie Gray-Lobe and Michael Kremer)
 
 “The Educational and Fertility Effects of Sibling Deaths,” with Marc Rockmore and Dhanu Thamarapani), revise and resubmit, *Economic Development and Cultural Change*.
+
+“Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
 
 “Children's identities and parents' attitudes," (with Jean Boblawende Kabore)  
 
 “Evolution of Cultural Attitudes and Sex of Children in West Africa,” (with Jean Boblawende Kabore)
 
-“Making Contact: Worker Assignment and National Unity," (with Guthrie Gray-Lobe and Michael Kremer)
+
 
 ## Publications
 
