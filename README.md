@@ -50,5 +50,7 @@
 ## Teaching
 
 [Development Economics](/files/syllabus_development.pdf) (PhD)
+
 [Behavioral Economics](/files/syllabus_behavioral.pdf) (undergraduate)
+
 [Intermediate Microeconomics](/files/syllabus_intermediate_micro.pdf) (undergraduate)
