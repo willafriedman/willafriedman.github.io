@@ -14,6 +14,7 @@
 
 “Evolution of Cultural Attitudes and Sex of Children in West Africa,” (with Jean Boblawende Kabore)
 
+“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/sites/10/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
 
 
 ## Publications
@@ -38,9 +39,6 @@
 
 “Economics of Genocide in Rwanda,” in *Economic Aspects of Genocides, Mass Atrocities, and Their Prevention*, ed. Charles Anderton and Jurgen Brauer, Oxford University Press, 2016.
 
-## Resting Papers
-
-“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/sites/10/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
 
 <!--
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
