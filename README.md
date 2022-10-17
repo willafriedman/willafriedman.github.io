@@ -2,7 +2,7 @@
 
 “[When Information is Not Enough: Evidence from a Centralized School Choice System](/files/guiide.pdf),” with Kehinde Ajayi and Adrienne Lucas.
 
-“Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, revise and resubmit, *Journal of Health Economics*.
+
 
 “[Making Contact: Worker Assignment and National Unity](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," (with Guthrie Gray-Lobe and Michael Kremer)
 
@@ -17,7 +17,9 @@
 “[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/sites/10/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
 
 
-## Publications
+## Publications and Forthcoming
+
+“Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, accepted, *Journal of Health Economics*.
 
 “[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (2021). (or [preprint](/files/advertisingvmmc_preprint.pdf))
 
