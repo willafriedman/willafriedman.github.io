@@ -21,7 +21,7 @@
 
 “Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, accepted, *Journal of Health Economics*.
 
-“[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (2021). (or [preprint](/files/advertisingvmmc_preprint.pdf))
+“[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (2022). (or [preprint](/files/advertisingvmmc_preprint.pdf))
 
 “[Measuring Family Planning Provider Bias: A Discrete Choice Experiment Among Burkinabe, Pakistani, and Tanzanian Providers](https://pubmed.ncbi.nlm.nih.gov/34472623/)” (with Maria Dieci, William Dow, Manisha Shah, Jessica Vandermark, Sarah Burgess, Sandra McCoy, and Zachary Wagner), *Studies in Family Planning*, (2021). 
 
