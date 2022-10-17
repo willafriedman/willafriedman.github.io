@@ -19,7 +19,7 @@
 
 ## Publications and Forthcoming
 
-“Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya,” with Anthony Keats and Martin Kavao Mutua, accepted, *Journal of Health Economics*.
+“[Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya](/files/strikes.pdf),” with Anthony Keats and Martin Kavao Mutua, accepted, *Journal of Health Economics*.
 
 “[Can Nudging Overcome Procrastinating on Preventive Health Investments](https://www.sciencedirect.com/science/article/pii/S1570677X21000642?utm_content=buffercacf1),” with Nicholas Wilson, *Economics and Human Biology*, (2022). (or [preprint](/files/advertisingvmmc_preprint.pdf))
 
