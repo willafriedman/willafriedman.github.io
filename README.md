@@ -4,7 +4,7 @@
 
 "[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" (with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow), revise and resubmit *Economic Journal*.
 
-“[Making Contact: Worker Assignment and National Unity](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," with Guthrie Gray-Lobe and Michael Kremer.
+“[Worker Assignment and National Unity: Are All Stable Matches Socially Stable?](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," with Guthrie Gray-Lobe and Michael Kremer.
 
 “The Educational and Fertility Effects of Sibling Deaths,” with Marc Rockmore and Dhanu Thamarapani, revise and resubmit *Economic Development and Cultural Change*.
 
