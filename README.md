@@ -14,7 +14,7 @@
 
 “Evolution of Cultural Attitudes and Sex of Children in West Africa,” with Jean Boblawende Kabore.
 
-“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/sites/10/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
+“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
 
 
 ## Publications and Forthcoming
