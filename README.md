@@ -1,9 +1,5 @@
 ## Working Papers
 
-“[When Information is Not Enough: Evidence from a Centralized School Choice System](https://www.nber.org/papers/w27887)," with Kehinde Ajayi and Adrienne Lucas, conditional accept *Economic Journal*.
-
-"[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" (with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow), conditional accept *Economic Journal*.
-
 “[Worker Assignment and National Unity: Are All Stable Matches Socially Stable?](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," with Guthrie Gray-Lobe and Michael Kremer.
 
 “The Educational and Fertility Effects of Sibling Deaths,” with Marc Rockmore and Dhanu Thamarapani, revise and resubmit *Economic Development and Cultural Change*.
@@ -18,6 +14,11 @@
 
 
 ## Publications and Forthcoming
+
+“[When Information is Not Enough: Evidence from a Centralized School Choice System](https://www.nber.org/papers/w27887)," with Kehinde Ajayi and Adrienne Lucas, conditional accept *Economic Journal*.
+
+"[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" (with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow), conditional accept *Economic Journal*.
+
 "[Characterizing Provider Bias in Contraceptive Care in Tanzania and Burkina Faso: A Mixed-Methods Study](https://pubmed.ncbi.nlm.nih.gov/38581812/)," with Alexandra Wollum, Corrina Moucheraud, Jessica D Gipson, Manisha Shah, and Zachary Wagner, *Social Science and Medicine*, 348 (2024): 116826.
 
 “[Disruptions to Health Care Quality and Early Child Health Outcomes: Evidence from Health Worker Strikes in Kenya](/files/strikes.pdf),” with Anthony Keats and Martin Kavao Mutua, *Journal of Health Economics*, 86(2022): 102694.
