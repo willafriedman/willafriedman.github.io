@@ -2,8 +2,6 @@
 
 “[Worker Assignment and National Unity: Are All Stable Matches Socially Stable?](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," with Guthrie Gray-Lobe and Michael Kremer.
 
-“Educational Effects of Sibling Deaths on Surviving Siblings,” with Marc Rockmore and Dhanu Thamarapani, conditionally accepted *Economic Development and Cultural Change*.
-
 “Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
 
 “Children's identities and parents' attitudes," with Jean Boblawende Kabore. 
@@ -17,7 +15,9 @@
 
 “[When Information is Not Enough: Evidence from a Centralized School Choice System](https://www.nber.org/papers/w27887)," with Kehinde Ajayi and Adrienne Lucas, forthcoming *Economic Journal*.
 
-"[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" (with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow), forthcoming *Economic Journal*.
+"[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow, forthcoming *Economic Journal*.
+
+“Educational Effects of Sibling Deaths on Surviving Siblings,” with Marc Rockmore and Dhanu Thamarapani, forthcoming *Economic Development and Cultural Change*.
 
 "[Characterizing Provider Bias in Contraceptive Care in Tanzania and Burkina Faso: A Mixed-Methods Study](https://pubmed.ncbi.nlm.nih.gov/38581812/)," with Alexandra Wollum, Corrina Moucheraud, Jessica D Gipson, Manisha Shah, and Zachary Wagner, *Social Science and Medicine*, 348 (2024): 116826.
 
