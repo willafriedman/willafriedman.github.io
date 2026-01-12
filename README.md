@@ -1,6 +1,9 @@
-## Working Papers
-
+## Works in Progress
 “[Worker Assignment and National Unity: Are All Stable Matches Socially Stable?](https://www.worldbank.org/en/programs/sief-trust-fund/brief/kenya-building-state-capacity-and-national-unity-with-market-design-the-problem-of-volunteer-assignment-in-kenya)," with Guthrie Gray-Lobe and Michael Kremer.
+
+"Quantity Responses to Quality," with Samuel Danilola and Claus Portner
+
+"The unintended consequences of Texas Education Agency's takeover of Houston Independent School District," with Blake Heller and Toni Templeton
 
 “Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
 
@@ -8,8 +11,9 @@
 
 “Evolution of Cultural Attitudes and Sex of Children in West Africa,” with Jean Boblawende Kabore.
 
-“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
+## Working Papers
 
+“[Local Economic Conditions and Participation in the Rwandan Genocide](https://hicn.org/wp-content/uploads/2012/06/HiCN-WP-160.pdf)," Households in Conflict Network working paper No 160.
 
 ## Publications and Forthcoming
 
