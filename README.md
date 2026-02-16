@@ -3,11 +3,11 @@
 
 "Quantity Responses to Quality," with Samuel Danilola and Claus Portner
 
-"The unintended consequences of Texas Education Agency's takeover of Houston Independent School District," with Blake Heller and Toni Templeton
+"The Unintended Consequences of Texas Education Agency's Takeover of Houston Independent School District," with Blake Heller and Toni Templeton
 
 “Institutional Births and Early Child Health: Evidence from Ghana's Free Delivery Policy,” with Anthony Keats.
 
-“Children's identities and parents' attitudes," with Jean Boblawende Kabore. 
+“Children's Identities and Parents' Attitudes," with Jean Boblawende Kabore. 
 
 “Evolution of Cultural Attitudes and Sex of Children in West Africa,” with Jean Boblawende Kabore.
 
