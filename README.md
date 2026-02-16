@@ -19,7 +19,7 @@
 
 “Educational Effects of Sibling Deaths on Surviving Siblings,” with Marc Rockmore and Dhanu Thamarapani, forthcoming *Economic Development and Cultural Change*.
 
-“[When Information is Not Enough: Evidence from a Centralized School Choice System](https://www.nber.org/papers/w27887)," with Kehinde Ajayi and Adrienne Lucas, *Economic Journal* (2025): ueaf046.
+“[When Information is Not Enough: Evidence from a Centralized School Choice System](https://academic.oup.com/ej/article/136/673/26/8161696)," with Kehinde Ajayi and Adrienne Lucas, *Economic Journal* (2025): ueaf046.
 
 "[Reducing bias among health care providers: Experimental evidence from Tanzania, Burkina Faso, and Pakistan](https://www.nber.org/papers/w31269)" with Zachary Wagner, Corrina Moucheraud, Manisha Shah, Alexandra Wollum, Willa Friedman, and William Dow, *Economic Journal* (2025): ueaf012.
 
